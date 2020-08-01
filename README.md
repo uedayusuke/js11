@@ -2,4 +2,4 @@
 
 DMM WEBCAMPカリキュラム
 
-JavaScriptを学ぼう
+JavaScriptを学ぼう/11章【タブメニューを作ってみよう】
